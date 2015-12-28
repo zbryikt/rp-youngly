@@ -1,6 +1,5 @@
 <- $ document .ready
 
-
 (e,d) <- d3.csv \ly.csv, _
 
 sessionhash = {}
